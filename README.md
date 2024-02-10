@@ -3,7 +3,7 @@
 
 
 # PURPOSE
-This is the software project for UH's NEBP conductivity payload, based on what was created by Andy Nguyencuu for USIP IV's conductivity payload. It contains mostly Arduino files to run on an Arduino Mega along with some Python to gather and process data collected on payload flights.
+This is the software project for UH's conductivity payload, based on what was created by Andy Nguyencuu for USIP IV's conductivity payload. It contains mostly Arduino files to run on an Arduino Mega along with some Python to gather and process data collected on payload flights.
 
 # SENSORS
 _There are three sensors which will be used on the payload. Their datasheets have been linked below._
